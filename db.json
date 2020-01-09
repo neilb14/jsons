@@ -1,6 +1,7 @@
 {
     "responses": [
         {
+            "id": 1,
             "measure": "weight",
             "unit": "lbs",
             "amount": "100",
